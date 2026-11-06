@@ -6,10 +6,10 @@ Hi! This is my first time using GitHub, so I decided to write about my favorite 
 **Year:** 2011 – 2019
 **Where to watch:** [HBO Max](https://www.max.com)
  
-![Game of Thrones poster](https://via.placeholder.com/400x150.png?text=Game+of+Thrones)
+![Game of Thrones poster]([https://via.placeholder.com/400x150.png?text=Game+of+Thrones](https://upload.wikimedia.org/wikipedia/sco/d/d8/Game_of_Thrones_title_card.jpg?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=original))
  
 ### Why I Like It
-> "Winter is coming." — House Stark
+> "Fire and Blood." — House Targaryen
  
 This is my favorite quote because it reminds everyone to always be prepared for the danger ahead.
  
